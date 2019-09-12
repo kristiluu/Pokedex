@@ -3,7 +3,7 @@
 A team project that acts as a dictionary/search database for game characters (Pokemon).
 
 ## Built with
-C++
+- C++
 
 ### Concepts used
 - Binary Search Trees
@@ -12,5 +12,11 @@ C++
 - Queues
 - Hash Function
 - Hash Resolution 
+
+### Authors
+- Kristi Luu
+- Henry Nguyen
+- Amir Alaj
+- Ehsan Al-Agtash
 
 Refer to this [powerpoint](https://docs.google.com/presentation/d/11r1vqBQkXWHxJXynpAushkQKi0ZomCo7uT65FK9eLDc/edit?usp=sharing) for more information.
